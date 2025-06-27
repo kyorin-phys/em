@@ -4,7 +4,8 @@
 * p.223 [例題10-8](ex10_8.html)　直線電流が作る磁場
 * p.224 [例題10.9](ex10_9.html)　円電流が作る磁場
 
-電流Iの小部分$\Delta s$っが電流からrの位置につくる磁束密度
+電流Iの小部分 $\Delta s$ が電流からrの位置につくる磁束密度
+
 $$
 \Delta \vec{B} = \frac{\mu_0}{4\pi} \frac{\vec{I}\times \vec{r}}{r^3}\Delta s
 $$
