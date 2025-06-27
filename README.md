@@ -12,5 +12,5 @@ $$
 \Delta \vec{B} = \frac{\mu_0}{4\pi} \frac{\vec{I}\times \vec{r}}{r^3}\Delta s
 $$
 
-外積 $ \vec{I} \times \vec{r}$ の方向に磁束密度 $\vec{B}$ ができることを確認する。
+外積 $\vec{I} \times \vec{r}$ の方向に磁束密度 $\vec{B}$ ができることを確認する。
 $\vec{I}, \vec{r}$ を含む平面の法線方向（右ねじの進む方向）に磁束密度ができる。
